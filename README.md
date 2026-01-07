@@ -9,5 +9,5 @@
 4. Monobehaviour
 5. "x = 10" upon game start.
 6. Method argument and method parameter used to pass input data to a method. 
-7. Transform.translate is not translating any variable so it would cause an error. 
-8. Call translate on _playerTransform object.
+7. Translate can only be called on an object and transform is a class. 
+8. Use the _playerTransform variable.
