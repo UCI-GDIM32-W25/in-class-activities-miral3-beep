@@ -1,3 +1,3 @@
 # GDIM32 In Class Activities
 ## Week 1
-- playtest your own game as well as test the link you submitted in order to not lose points. 
+- Playtest your own game as well as test the link you submitted in order to not lose points. 
