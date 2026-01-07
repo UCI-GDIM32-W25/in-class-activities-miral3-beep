@@ -7,7 +7,7 @@
 2. 2
 3. "hello world" 
 4. Monobehaviour
-5. "x = 10" 
-6. Both are parameters that tell the method the data being used to complete the function
+5. "x = 10" upon game start.
+6. Method argument and method parameter used to pass input data to a method. 
 7. Transform.translate is not translating any variable so it would cause an error. 
 8. Call translate on _playerTransform object.
