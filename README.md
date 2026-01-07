@@ -10,4 +10,4 @@
 5. "x = 10" 
 6. Both are parameters that tell the method the data being used to complete the function
 7. Transform.translate is not translating any variable so it would cause an error. 
-8. _playerTransform. added in front to communicate what is being translated. 
+8. Call translate on _playerTransform object.
