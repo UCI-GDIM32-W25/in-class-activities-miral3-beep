@@ -12,5 +12,9 @@
 7. Translate can only be called on an object and transform is a class. 
 8. Use the _playerTransform variable.
 ### Activity 3
-[yes][https://docs.google.com/document/d/1MR5s2MD1t6kFIP1PlwggtskA_hNJPmX335sJPT-4Uuw/edit?tab=t.0]
+[W1 Minigame Plan](https://docs.google.com/document/d/1MR5s2MD1t6kFIP1PlwggtskA_hNJPmX335sJPT-4Uuw/edit?tab=t.0)
 ## Week 2
+### Activity 1
+![IMG_0354](https://github.com/user-attachments/assets/37dc8089-8dbc-4ff4-897f-5afa474511b9)
+### Activity 2
+
