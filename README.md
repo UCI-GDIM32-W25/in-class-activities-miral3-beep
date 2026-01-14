@@ -13,3 +13,4 @@
 8. Use the _playerTransform variable.
 ### Activity 3
 https://docs.google.com/document/d/1MR5s2MD1t6kFIP1PlwggtskA_hNJPmX335sJPT-4Uuw/edit?tab=t.0
+## Week 2
