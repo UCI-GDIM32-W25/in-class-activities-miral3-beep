@@ -19,6 +19,8 @@
 ### Activity 2
 I built the scene and coded lines under the Start() and Update() methods. I wrote get component for the 2D Rigidbody on the penguin. I also wrote the Input.GetKeyDown, so the penguin will move up when space is pressed. Then I got Library errors so I am unable to push anything to Github. 
 ## Week 3
-### Activity 0 
+### Activity 0-2
 Sahasra Vytla 
-### Activity 1
+### Activity 3
+![IMG_0423](https://github.com/user-attachments/assets/2703bee5-d91e-49a6-a83c-282be6e54dd4)
+
