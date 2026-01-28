@@ -29,4 +29,8 @@ Sahasra Vytla
 Sahasra Vytla 
 ### Activity 1 
 The locator script disappears under the Locator objects and only appears in one. This is because we wrote it to check the instances and destroy the extra ones so only one remains. 
+### Activity 2 
+![w4](https://github.com/user-attachments/assets/04e2fb2a-f916-4cd8-88b1-218685aedc29)
+### Activity 3
+
 
