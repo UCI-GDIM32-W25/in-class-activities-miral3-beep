@@ -32,5 +32,6 @@ The locator script disappears under the Locator objects and only appears in one.
 ### Activity 2 
 ![w4](https://github.com/user-attachments/assets/04e2fb2a-f916-4cd8-88b1-218685aedc29)
 ### Activity 3
+I created the project and downloaded the free bird and pipe assets. https://github.com/UCI-GDIM32-W25/HW4/compare/main...miral3-beep:HW4:main 
 
 
