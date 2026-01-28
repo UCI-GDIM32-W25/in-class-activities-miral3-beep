@@ -27,4 +27,6 @@ Sahasra Vytla
 ## Week 4 
 ### Activity 0 
 Sahasra Vytla 
+### Activity 1 
+The locator script disappears under the Locator objects and only appears in one. This is because we wrote it to check the instances and destroy the extra ones so only one remains. 
 
