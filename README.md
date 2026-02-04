@@ -44,5 +44,5 @@ Scenario 1: prefabs with scriptable object, sprites, data could be type of note 
 Scenario 2: Finite State Machine, Inheiritance, Scriptable Objects Finite State Machine - players need to know when someone on the other team or their is down, Ui displays, score updates. Inheritance - each weapon has a animation and damage, parent class for each agent, different animations and health. Scriptable objects - for inventory. Model View Controller - stats of abilities is the model, character causingb damage to other characters would be the controller, the UI for activating abilities. 
 Scenario 3: States would be useful for the plants and the players, growth state, players finding the plants.
 ### Activity 4 
-
+https://docs.google.com/document/d/1KHzQUOe_9pFKEXuYQW5sSsAkWXeVOPrjhrICp1-lh7M/edit?tab=t.0
 
