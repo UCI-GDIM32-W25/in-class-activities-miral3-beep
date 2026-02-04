@@ -37,6 +37,9 @@ I created the project and downloaded the free bird and pipe assets. https://gith
 ## Week 5
 ### Activity 1 
 I think the design of these interfaces and abstract classes fit the design of the project, the interface for breakable objects is used by the objects that are breakable, while the Elven Sword doesn't reference this class, indicating that it can't be broken. I would keep it the same because you can also define durability in each item and change it instead of being inheritable. If I was building a project with weapons with varying durabilities of each object, I would probably follow the same model. 
+### Activity 2 
+ItemW5Demo2 Controller, Player model class, Enemy stats is the view. 
+### Activity 3 
 
 
 
