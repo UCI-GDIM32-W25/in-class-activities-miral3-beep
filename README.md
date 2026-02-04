@@ -40,6 +40,9 @@ I think the design of these interfaces and abstract classes fit the design of th
 ### Activity 2 
 ItemW5Demo2 Controller, Player model class, Enemy stats is the view. 
 ### Activity 3 
-
+Scenario 1: prefabs with scriptable object, sprites, data could be type of note it is, where in the song the beat has to be hit. 
+Scenario 2: Finite State Machine, Inheiritance, Scriptable Objects Finite State Machine - players need to know when someone on the other team or their is down, Ui displays, score updates. Inheritance - each weapon has a animation and damage, parent class for each agent, different animations and health. Scriptable objects - for inventory. Model View Controller - stats of abilities is the model, character causingb damage to other characters would be the controller, the UI for activating abilities. 
+Scenario 3: States would be useful for the plants and the players, growth state, players finding the plants.
+### Activity 4 
 
 
