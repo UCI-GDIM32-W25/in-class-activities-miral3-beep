@@ -34,4 +34,9 @@ The locator script disappears under the Locator objects and only appears in one.
 ### Activity 3
 I created the project and downloaded the free bird and pipe assets. https://github.com/UCI-GDIM32-W25/HW4/compare/main...miral3-beep:HW4:main 
 
+## Week 5
+### Activity 1 
+I think the design of these interfaces and abstract classes fit the design of the project, the interface for breakable objects is used by the objects that are breakable, while the Elven Sword doesn't reference this class, indicating that it can't be broken. I would keep it the same because you can also define durability in each item and change it instead of being inheritable. If I was building a project with weapons with varying durabilities of each object, I would probably follow the same model. 
+
+
 
