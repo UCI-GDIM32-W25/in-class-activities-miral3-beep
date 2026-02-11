@@ -54,5 +54,6 @@ Gizmos- using gizmos to visualize the collider, bc its own component, it can be 
 breakpoints - it will stop the program from running and can find out what exactly is breaking. I can use breakpoints to figure out where an error might be occurring and fix it accordingly. This way, we don't need to write so many Debug logs or at all. 
 ### Activity 2 
 Mira Liu, Luis Chavarin 
+https://docs.google.com/document/d/1KHzQUOe_9pFKEXuYQW5sSsAkWXeVOPrjhrICp1-lh7M/edit?tab=t.0
 
 
