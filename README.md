@@ -50,6 +50,8 @@ https://docs.google.com/document/d/1KHzQUOe_9pFKEXuYQW5sSsAkWXeVOPrjhrICp1-lh7M/
 Performance- Don't use mesh colliders and polygon colliders as the faces can get complicated and then you would have to calculate where it collide vs. using a box or a circle , avoid too many debug logs, using GetComponent(), and always test web builds.
 #
 Gizmos- using gizmos to visualize the collider, bc its own component, it can be used for other objects with a circle collider, they are only visible in the scene, the red arrow can also visualize how fast an object is moving along with direction. 
+#
+breakpoints - it will stop the program from running and can find out what exactly is breaking. I can use breakpoints to figure out where an error might be occurring and fix it accordingly. This way, we don't need to write so many Debug logs or at all. 
 ### Activity 2 
 Mira Liu, Luis Chavarin 
 
