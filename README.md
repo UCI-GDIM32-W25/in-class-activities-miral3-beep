@@ -45,4 +45,12 @@ Scenario 2: Finite State Machine, Inheiritance, Scriptable Objects Finite State 
 Scenario 3: States would be useful for the plants and the players, growth state, players finding the plants.
 ### Activity 4 
 https://docs.google.com/document/d/1KHzQUOe_9pFKEXuYQW5sSsAkWXeVOPrjhrICp1-lh7M/edit?tab=t.0
+## Week 6 
+### Activity 1
+Performance- Don't use mesh colliders and polygon colliders as the faces can get complicated and then you would have to calculate where it collide vs. using a box or a circle , avoid too many debug logs, using GetComponent(), and always test web builds.
+#
+Gizmos- using gizmos to visualize the collider, bc its own component, it can be used for other objects with a circle collider, they are only visible in the scene, the red arrow can also visualize how fast an object is moving along with direction. 
+### Activity 2 
+Mira Liu, Luis Chavarin 
+
 
