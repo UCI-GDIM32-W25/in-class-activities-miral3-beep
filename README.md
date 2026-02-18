@@ -55,5 +55,14 @@ breakpoints - it will stop the program from running and can find out what exactl
 ### Activity 2 
 Mira Liu, Luis Chavarin 
 https://docs.google.com/document/d/1KHzQUOe_9pFKEXuYQW5sSsAkWXeVOPrjhrICp1-lh7M/edit?tab=t.0
-
-
+## Week 7
+### Activity 1 
+Raycasting can work as a line of sight and can check if it hits something, and we can change the color for indication that the state changed. We can also connect raycast to an object to detect if there is an obstruction or not. 
+### Activity 2 
+Sahasra Vytla, Luis Chavarin, Beiduo Jin, Mira Liu 
+### Activity 3 
+![Final Project breakdown ](https://github.com/user-attachments/assets/c1a4fbf1-d34a-44d7-8e20-b07a33abeffd)
+### Activity 4 
+https://trello.com/b/vhuJJv7S/gdim-32-final-phenomenal 
+### Activity 5 
+Found a pot asset and imported it into the sprites folder.
