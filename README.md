@@ -65,4 +65,4 @@ Sahasra Vytla, Luis Chavarin, Beiduo Jin, Mira Liu
 ### Activity 4 
 https://trello.com/b/vhuJJv7S/gdim-32-final-phenomenal 
 ### Activity 5 
-Found a pot asset and imported it into the sprites folder.
+Found a pot asset and imported it into the sprites folder. Created a terrain
