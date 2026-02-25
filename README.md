@@ -66,3 +66,20 @@ Sahasra Vytla, Luis Chavarin, Beiduo Jin, Mira Liu
 https://trello.com/b/vhuJJv7S/gdim-32-final-phenomenal 
 ### Activity 5 
 Found a pot asset and imported it into the sprites folder. Created a terrain
+## Week 8
+### Activity 1 
+Shaders built for specific render pipeline will only run in those pipelines, so check if it can run in built-in.
+Post processing - shaders that affect how the game looks 
+Color grading, entire screen effects can download and import. 
+### Activity 2 
+Mira Liu, Sahasra Vytla, Luis Chavarin, Beiduo Jin 
+### Activity 3 
+Movement doesn't work
+There is some random text that appears when the game starts
+Terrain is missing
+Camera doesn't move with player
+Player object doesn't have a mesh so it can't be seen
+### Activity 4 
+Terrain rebuilding 
+### Activity 5 
+https://github.com/lindenreid/GDIM32-Final/commit/9aacca61a417989a84a2196b42f0a70ec8387b67 I imported more assets for the environment as well as assigned an object to the player. Also our initial terrain disappeared so I had to rebuild it. 
