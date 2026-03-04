@@ -83,3 +83,23 @@ Player object doesn't have a mesh so it can't be seen
 Terrain rebuilding 
 ### Activity 5 
 https://github.com/lindenreid/GDIM32-Final/commit/9aacca61a417989a84a2196b42f0a70ec8387b67 I imported more assets for the environment as well as assigned an object to the player. Also our initial terrain disappeared so I had to rebuild it. 
+## Week 9 
+### Activity 1 
+Scaling
+
+- an architectural solution will scale will when the program is handling a lot of data
+    - its performant
+    - its easy for users to use
+- why should scaling matter
+    - when coding anything that are larger than what we build in gdim 31, the architecture needs to scale well
+    - programming as a career, you mustbe able to talk abouy how your solutions will be performant and easy for the user
+- how does concept of scaling relate to the programming design patterns we’ve talked about in class
+    - all of the design patterns we’ve learned will help you write code that scales well
+- duck multiple dialogue branches
+- dialogue nodes — no player option — other options reference it
+### Activity 2 
+Mira Liu, Sahasra Vytla, Luis Chavarin, Beiduo Jin 
+### Activity 3
+- Camera movement is a bit off because it's binded to the A and D key. Suggested Mouse binded to camera movement. 
+- items can copy each other when clicked.
+- a lot better than last week. 
