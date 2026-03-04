@@ -102,4 +102,8 @@ Mira Liu, Sahasra Vytla, Luis Chavarin, Beiduo Jin
 ### Activity 3
 - Camera movement is a bit off because it's binded to the A and D key. Suggested Mouse binded to camera movement. 
 - items can copy each other when clicked.
-- a lot better than last week. 
+- a lot better than last week.
+### Activity 4
+We have two interactable objects along with interactable UI, player movement, and a NPC game -- we were planning to have all the ingredient assets and cooking in by now, but we are a bit behind on that. Our solution was instead of having customer orders, we are going to have the restaurant manager be the NPC that has the branching dialogue, assigning the quest, and checking whether or not the order is correct. 
+### Activity 5
+https://github.com/lindenreid/GDIM32-Final/commit/9bc5dabe1530464bb479117ed9b9fdf6acbb077d I fixed the player movement so the camera no longer moved with the A and D keys. 
